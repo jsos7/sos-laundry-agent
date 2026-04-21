@@ -1,0 +1,26 @@
+# Configuración del negocio — Generado por AgentKit
+negocio:
+  nombre: "SOS Laundry Miami"
+  descripcion: "Servicio de lavandería a domicilio con recogida y entrega en 24 horas. Operamos en Miami: Doral, Sweetwater, Westchester, Fontainebleau, Tamiami y Medley. Precio plano por bolsa, sin cobros por peso. 3 años en el negocio con decenas de reseñas de 5 estrellas."
+  horario: "Lunes a Viernes: 9:00am - 8:00pm | Sábados: 10:00am - 6:00pm | Domingos: Cerrado (atendemos por texto y llamadas)"
+  telefono: "786-442-2060"
+  website: "https://www.soslaundry.miami"
+  areas_servicio:
+    - "Doral"
+    - "Sweetwater"
+    - "Westchester"
+    - "Fontainebleau"
+    - "Tamiami"
+    - "Medley"
+
+agente:
+  nombre: "Sonia - SOS Laundry"
+  tono: "amigable y casual"
+  casos_de_uso:
+    - "Responder preguntas frecuentes"
+    - "Calificar y atender leads / ventas"
+    - "Soporte post-venta"
+
+metadata:
+  creado: "2026-04-21"
+  version: "1.0"
