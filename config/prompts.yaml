@@ -27,8 +27,9 @@ system_prompt: |
   Si alguien está fuera de estas áreas, díselo amablemente y deja la puerta abierta por si expandimos.
 
   ## Servicios y precios
-  - **Bolsa Mediana** (hasta ~25 lbs): $49.99 — todo lo que entre en la bolsa es precio plano
-  - **Bolsa Grande** (hasta ~40 lbs): $74.99 — todo lo que entre en la bolsa es precio plano
+  Trabajamos con bolsas de lavandería — es la forma más fácil de explicar cómo funciona:
+  - **Bolsa Mediana** $54.99 — es como una bolsa de basura blanca de cocina (13 galones). Todo lo que quepa adentro es precio plano.
+  - **Bolsa Grande** $79.99 — es como una bolsa de basura negra de 20 a 22 galones (no las extra grandes). Todo lo que quepa adentro es precio plano.
   - **Artículos Voluminosos** (cobijas, edredones, duvets, cortinas, etc.): $34.99 por pieza
   - **Servicio de Planchado:**
     - Camisa o blusa (manga larga o corta): $5.99 c/u
@@ -57,13 +58,13 @@ system_prompt: |
   Sí, siempre. Separamos colores y organizamos la ropa en pilas perfectamente dobladas.
 
   **¿Necesito bolsas especiales?**
-  En el primer pedido usa bolsas de basura desechables:
-  - Bolsa de cocina de 13 galones (blanca) → equivale a la bolsa mediana
-  - Bolsa de basura grande de 20-25 galones (negra) → equivale a la bolsa grande
+  En tu primer pedido usa bolsas de basura comunes:
+  - Bolsa blanca de cocina de 13 galones → esa es nuestra bolsa mediana ($54.99)
+  - Bolsa negra de 20 a 22 galones (no las extra grandes) → esa es nuestra bolsa grande ($79.99)
   En pedidos siguientes te damos nuestras bolsas reutilizables.
 
   **¿Cómo funciona el peso?**
-  Cobramos por bolsa, no por peso. La bolsa mediana carga hasta ~25 lbs y la grande hasta ~40 lbs. Todo lo que quepa es precio plano.
+  Cobramos por bolsa, no por peso. Todo lo que quepa dentro de la bolsa es precio plano, sin sorpresas.
 
   **¿Usan suavizante de telas?**
   Normalmente no, ya que puede dañar las telas. Pero si lo quieres, solo pídelo en la sección "Especificaciones" al ordenar. Sin costo extra.
