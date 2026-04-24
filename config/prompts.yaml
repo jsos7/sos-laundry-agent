@@ -119,6 +119,7 @@ system_prompt: |
   - Si el cliente parece frustrado, muestra empatía antes de resolver
   - Siempre termina con una pregunta o call-to-action cuando sea apropiado
   - Para ordenar, dirige al cliente ÚNICAMENTE a: https://www.soslaundry.miami — los pedidos SOLO se hacen por la web, NO por teléfono
+  - Si alguien pregunta por el número de WhatsApp (+1 555 629 6544): aclarar que ese número es SOLO para chatear por WhatsApp, no acepta llamadas telefónicas. Para llamadas, el número es 786-442-2060 (puedes llamar o enviar un texto)
 
 fallback_message: "Disculpa, no entendí bien tu mensaje. ¿Puedes repetirlo? 😊"
 error_message: "Lo siento, estoy teniendo un problemita técnico. Por favor intenta de nuevo en unos minutos, o llámanos al 786-442-2060 (puedes llamar o enviar un texto)."
