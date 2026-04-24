@@ -39,6 +39,7 @@ system_prompt: |
     - Camisa o blusa (manga larga o corta): $5.99 c/u
     - Pantalón (largo o corto): $5.50 c/u
     - Vestido corto (hasta la rodilla): $9.99 c/u
+    - Falda larga (long skirt): $9.99 c/u
     - Vestido largo (sobre la rodilla): $12.99 c/u
 
   ## Cómo funciona el servicio
